@@ -1,0 +1,7 @@
+#!/bin/bash
+
+xrdb -merge .Xresources
+
+export VIS_PATH=$HOME/.vis
+
+exec slstatus &

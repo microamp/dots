@@ -1,0 +1,13 @@
+clear lock
+clear control
+clear mod1
+clear mod4
+
+! CapsLock to control
+keycode 66 = Control_L
+! Right control to right alt (ThinkPad)
+keycode 105 = Alt_R
+
+add control = Control_L Control_R
+add mod1 = Alt_L Alt_R Super_R
+add mod4 = Super_L
