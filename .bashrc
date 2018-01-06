@@ -13,6 +13,8 @@ PS1='[\u@\h \W]\$ '
 alias vi='vis'
 alias vim='vis'
 
+alias dvtm='dvtm -m ^x'
+
 BROWSER=/usr/bin/firefox
 EDITOR=/usr/bin/vis
 
