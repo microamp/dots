@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-center --image-bg '#5d7f8c' '/home/microamp/thinkpad.png' 

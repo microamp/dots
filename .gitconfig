@@ -1,3 +1,7 @@
 [user]
 	name = Sangho Na
 	email = microamp@protonmail.com
+[credential]
+	helper = cache
+[github]
+	user = microamp
