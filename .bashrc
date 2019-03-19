@@ -57,7 +57,7 @@ export EDITOR=/usr/local/bin/vim
 #setxkbmap -option ctrl:nocaps
 #setxkbmap -option ctrl:rctrl_ralt
 
-complete -C '/home/microamp/.venv/bin/aws_completer' aws
+complete -C '/usr/bin/aws_completer' aws
 
 PATH="$PATH:/home/microamp/.conscript/bin"
 
