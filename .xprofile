@@ -14,6 +14,8 @@ export XMODIFIERS="@im=nabi"
 export GTK_IM_MODULE=xim
 export QT_IM_MODULE=xim
 
+exec nabi &
+
 xset r rate 250 25
 
 xinput set-prop "TPPS/2 IBM TrackPoint" --type=int --format=8 "Middle Emulation Enabled" 1
